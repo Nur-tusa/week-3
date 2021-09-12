@@ -30,3 +30,4 @@ $(document).ready(function(){
         alert ( name + "  we have received your message. Thank you for reaching out to us.");
     }
     
+!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/e78302a0754479e5b6abb0e38/fa390717e3801b4be198dddf6.js");
