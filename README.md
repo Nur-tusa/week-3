@@ -3,7 +3,7 @@
 ## APPLICATION NAME.
 DELANI STUDIO
  ## application description
-This is delani studio website which provide the services they provide,their contact and how to reach them out.
+This is delani studio website which provide the services they provide,their address  and how to reach them out.
  <img src="img/1r.png">
   <img src="img/2r.png">
  <img src="img/3r.png">
