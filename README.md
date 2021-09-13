@@ -24,7 +24,7 @@ This is delani studio website which provide the services they provide,their addr
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
 
 ## BDD
-| form      | Input        | Output       |
+| Form      | Input        | Output       |
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   nur tusa |     |
 | Enter your Email Address  | nuurtusa@gmail.com |   |
