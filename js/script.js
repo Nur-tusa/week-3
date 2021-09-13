@@ -27,6 +27,6 @@ $(document).ready(function(){
  function showName(e){
     var name= document.getElementById("name").value;
 
-        alert ( name + "  we have received your message. Thank you for reaching out to us.");
+        alert ( name + "  We have received your message. Thank you for reaching out to us.");
     }
     
