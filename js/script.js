@@ -23,7 +23,7 @@ $(document).ready(function(){
     $('.text',this).slideToggle('slow');
  });
 
-
+///////////tackling the submit button
  function showName(e){
     var name= document.getElementById("name").value;
 
